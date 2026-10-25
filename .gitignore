@@ -1,0 +1,6 @@
+﻿.env
+.pf-standalone/
+runs/
+__pycache__/
+*.pyc
+
